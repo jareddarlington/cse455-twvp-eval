@@ -1,0 +1,8 @@
+# versions the report evals ran with
+vllm==0.31.*
+torch==2.13.*
+transformers==5.17.*
+pillow
+# prepare_data.py only
+huggingface_hub
+pyarrow
